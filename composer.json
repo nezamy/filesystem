@@ -1,0 +1,24 @@
+{
+    "name": "nezamy/filesystem",
+    "type": "library",
+    "description": "File System",
+    "keywords": ["filesystem", "justframework"],
+    "homepage": "https://github.com/nezamy/filesystem/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahmoud Elnezamy",
+            "email": "mahmoud@nezamy.com",
+            "homepage": "http://nezamy.com",
+            "role": "Full Stack Web Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "System\\": "system"
+        }
+    }
+}
