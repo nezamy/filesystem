@@ -19,6 +19,7 @@
     "autoload": {
         "psr-4": {
             "System\\": "system"
-        }
+        },
+        "files": ["system/function.php"]
     }
 }
